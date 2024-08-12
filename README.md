@@ -1,65 +1,49 @@
-# Coursera Machine Learning Specialization
-[Link on Coursera.](https://www.coursera.org/specializations/machine-learning-introduction)
+# [Coursera] Machine Learning Specialization
+
+<div align="center">
+    <img src="https://d15cw65ipctsrr.cloudfront.net/3a/9d2a7af297483a845340bcfbac6f1e/MLS.course-banners-01_Course-Logo-.png" height=400"/>
+</div>
+
+## Overview
+This repository provides solutions for course assignments in the [Coursera Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction). There are a total of three couses in this specialization:
 
 ## Course 1 - Supervised Machine Learning: Regression and Classification 
 
-### Week 1
-* No assignments.
-* Lab 1: Brief Introduction to Python and Jupyter Notebooks
-* Lab 2: Model Representation
-* Lab 3: Cost Function
-* Lab 4: Gradient Descent
+### Week 1 - Introduction to Machine Learning
 
-### Week 2
-* Assignment: Linear Regression
-* Lab 1: Python Numpy Vectorization
-* Lab 2: Multiple Variable Linear Regression
-* Lab 3: Feature Scaling and Learning Rate 
-* Lab 4: Feature Engineering and Polynomial Regression
-* Lab 5: Brief Introduction to Python and Jupyter Notebooks
-* Lab 6: Linear Regression using Scikit-Learn
+### Week 2 - Regression with Multiple Input Variables
+__Assignment__: Linear Regression
 
-### Week 3
-* Assignment: Logistic Regression
-* Lab 1: Classification
-* Lab 2: Sigmoid Function
-* Lab 3: Decision Boundary
-* Lab 4: Logistic Loss
-* Lab 5: Cost Function
-* Lab 6: Gradient Descent
-* Lab 7: Scikit Learn - Logistic Regression
-* Lab 8: Overfitting
-* Lab 9: Regularization
+### Week 3 - Classification
+__Assignment__: Logistic Regression
 
 ## Course 2 - Advanced Learning Algorithms
 
-### Week 1
-* Assignment: Neural Networks for Binary Classification
-* Lab 1: Neurons and Layers
-* Lab 2: Coffee Roasting
-* Lab 3: Coffee Roasting Using Numpy
+### Week 1 - Neural Networks
+__Assignment__: Neural Networks for Binary Classification
 
-### Week 2
-* Assignment: Neural Networks for Multiclass classification
-* Lab 1: RElu
-* Lab 2: Softmax
-* Lab 3: Multiclass Classification
+### Week 2 - Neural Network Training
+__Assignment__: Neural Networks for Multiclass classification
 
-### Week 3
-* Assignment: Advice for Applying Machine Learning
+### Week 3 - Advice for Applying Machine Learning
+__Assignment__: Advice for Applying Machine Learning
 
-### Week 4
-* Assignment: Decision Trees
+### Week 4 - Decision Trees
+__Assignment__: Decision Trees
 
 ## Course 3 - Unsupervised Learning, Recommenders, Reinforcement Learning
 
-### Week 1
-* Assignment 1: K-Means
-* Assignment 2: Anomaly Detection
+### Week 1 - Unsupervised Learning
+__Assignment 1__: K-Means \
+__Assignment 2__: Anomaly Detection
 
-### Week 2
-* Assignment 1: Collaborative Filtering Recommender Systems
-* Assignment 2: Deep Learning for Content-Based Filtering
+### Week 2 - Recommender Systems
+__Assignment 1__: Collaborative Filtering Recommender Systems \
+__Assignment 2__: Deep Learning for Content-Based Filtering
 
-### Week 3
-* Assignment: Reinforcement Learning
+### Week 3 - Reinforcement Learning
+__Assignment__: Reinforcement Learning
+
+<div align="center">
+    <img src="ML Specialization.png" height=600"/>
+</div>
